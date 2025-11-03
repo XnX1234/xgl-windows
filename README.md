@@ -1,6 +1,9 @@
 # xgl
 XnX1234 Graphic Library
 
+# COPYRIGHT
+<h1>Copyright XnX1234 (c) 2025</h1>
+
 <h2>STRUCTURE</h2>
 <table>
   <tr>
