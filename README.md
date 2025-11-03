@@ -1,5 +1,5 @@
 # xgl
-XnX1234 Graphic Library
+XnX1234 Graphic Library (Windows)
 <br /><br /><br />
   
 # COPYRIGHT
@@ -17,3 +17,7 @@ XnX1234 Graphic Library
     <th><center>C++ headers for use in projects</center></th>
   </tr>
 </table>
+<br /><br /><br />
+
+# for Other Systems
+--soon--
